@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT"
 description = "CoCube UDP client"
 authors = ["Liangdi <wu@liangdi.me>"]
+repository = "https://github.com/404digital/cocube-rs"
 
 [dependencies]
 uuid = { version = "1.4", features = ["v4"] }
